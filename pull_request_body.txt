@@ -1,0 +1,21 @@
+Short summary
+Add a central README (docs/README.md) that provides a concise overview of OctoAcme project management processes and links to all existing process documents organized by project phase. The README adds quick-start guidance for new team members and contribution instructions for updating process docs.
+
+Files changed
+- docs/README.md (new)
+
+Why
+Centralizes scattered process documentation, improves discoverability for new team members, and provides a maintained index organized by lifecycle phase.
+
+Acceptance
+- README contains a brief overview of project management processes and links to:
+  - octoacme-project-initiation.md
+  - octoacme-project-planning.md
+  - octoacme-execution-and-tracking.md
+  - octoacme-release-and-deployment.md
+  - octoacme-retrospective-and-continuous-improvement.md
+  - octoacme-project-management-overview.md
+  - octoacme-roles-and-personas.md
+  - octoacme-risks-and-communication.md
+
+Closes #2
